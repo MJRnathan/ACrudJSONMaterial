@@ -1,0 +1,140 @@
+{
+  "productList": [
+    {
+      "productName": "JkFruit",
+      "category": "Fruits",
+      "date": "2022-07-01T18:30:00.000Z",
+      "quality": "New",
+      "price": 24,
+      "comment": "Tasty",
+      "id": 10
+    },
+    {
+      "productName": "Lichi",
+      "category": "Fruits",
+      "date": "2022-07-25T18:30:00.000Z",
+      "quality": "New",
+      "price": 90,
+      "comment": "Chicki",
+      "id": 11
+    },
+    {
+      "productName": "Obujene",
+      "category": "Vegetables",
+      "date": "2022-07-25T18:30:00.000Z",
+      "quality": "New",
+      "price": 32,
+      "comment": "tasty",
+      "id": 13
+    },
+    {
+      "productName": "Lime",
+      "category": "Vegetables",
+      "date": "2022-07-23T18:30:00.000Z",
+      "quality": "New",
+      "price": 35,
+      "comment": "Lemony",
+      "id": 14
+    },
+    {
+      "productName": "Guava",
+      "category": "Fruits",
+      "date": "2022-07-02T18:30:00.000Z",
+      "quality": "New",
+      "price": 43,
+      "comment": "It is the Sweet",
+      "id": 15
+    },
+    {
+      "productName": "Radish",
+      "category": "Vegetables",
+      "date": "2022-07-04T18:30:00.000Z",
+      "quality": "New",
+      "price": 23,
+      "comment": "Very Raddish",
+      "id": 16
+    },
+    {
+      "productName": "I20",
+      "category": "Electronics",
+      "date": "2022-07-25T18:30:00.000Z",
+      "quality": "Refurbished",
+      "price": 125000,
+      "comment": "Very Smart",
+      "id": 17
+    },
+    {
+      "productName": "SugarCane",
+      "category": "Fruits",
+      "date": "2022-07-04T18:30:00.000Z",
+      "quality": "New",
+      "price": 33,
+      "comment": "Fresh",
+      "id": 18
+    },
+    {
+      "productName": "Raddisha",
+      "category": "Vegetables",
+      "date": "2022-07-06T18:30:00.000Z",
+      "quality": "New",
+      "price": 25,
+      "comment": "Reddish",
+      "id": 19
+    },
+    {
+      "productName": "HDTV65",
+      "category": "Electronics",
+      "date": "2022-07-03T18:30:00.000Z",
+      "quality": "New",
+      "price": 165000,
+      "comment": "Good",
+      "id": 20
+    },
+    {
+      "productName": "RazorTron",
+      "category": "Electronics",
+      "date": "2022-07-04T18:30:00.000Z",
+      "quality": "New",
+      "price": 35000,
+      "comment": "Veru Goods",
+      "id": 21
+    },
+    {
+      "productName": "HDTV55",
+      "category": "Electronics",
+      "date": "2022-07-05T18:30:00.000Z",
+      "quality": "New",
+      "price": 45000,
+      "comment": "Sharp",
+      "id": 22
+    },
+    {
+      "productName": "hd tv 45",
+      "category": "Electronics",
+      "date": "2017-03-22T18:30:00.000Z",
+      "quality": "New",
+      "price": 25000,
+      "comment": "Good Display",
+      "id": 23
+    },
+    {
+      "productName": "Grapes",
+      "category": "Fruits",
+      "date": "2022-09-06T18:30:00.000Z",
+      "quality": "New",
+      "price": 120,
+      "comment": "vary tasty",
+      "id": 24
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

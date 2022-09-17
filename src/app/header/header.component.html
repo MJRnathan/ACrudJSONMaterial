@@ -1,0 +1,24 @@
+<mat-toolbar color="primary">
+  <button
+    mat-icon-button
+    class="example-icon"
+    aria-label="Example icon-button with menu icon"
+  >
+    <mat-icon>supervised_user_circle</mat-icon>
+  </button>
+  <span class="em">Employee Maintenance 1:27:20</span>
+  <span class="example-spacer"></span>
+
+  <section>
+    <div class="example-button-row">
+      <button mat-raised-button color="warn" (click)="openDialog()">
+        Add Products
+      </button>
+    </div>
+    <div class="example-button-row">
+      <button mat-raised-button color="warn" (click)="openDialog()">
+        {{ loginStatus }}Loin
+      </button>
+    </div>
+  </section>
+</mat-toolbar>
